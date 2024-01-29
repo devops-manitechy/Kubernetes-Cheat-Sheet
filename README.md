@@ -18,3 +18,5 @@ kubectl create namespace <namespace-name>: Create a new namespace.
 # Deployment:
 kubectl get deployments: List all deployments in the current namespace.
 kubectl describe deployment <deployment-name>: View details of a specific deployment.
+
+# Cerdits : 
